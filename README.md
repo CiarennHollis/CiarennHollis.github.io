@@ -48,6 +48,14 @@ Description: Reorgnized the original code of this application into separate clas
 
 ```
 
+### Practice: Ten Bear Song
+```markdown 
+Description: This program prints the lyrics for the Ten Bears song
+                
+- https://github.com/CiarennHollis/CiarennHollis.github.io/blob/663d9449a65b6a71f624633e881b93eec6d74536/TenBearsPractice.cs
+
+```
+
 
 Syntax highlighted code block
 
