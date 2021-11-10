@@ -20,7 +20,7 @@ and play mini games with the non-player characters.
 ```
 - https://github.com/CiarennHollis/CiarennHollis.github.io/blob/c72fe39954c599b798a54330c23d82c88c99f246/3AMgame.cs
 
-
+UML diagrams for this project:
 ![PROG101-MidtermImages](https://user-images.githubusercontent.com/94020137/141184318-69fca03f-ed8a-4dea-a368-bc0532b55a6f.jpg)
 
 
