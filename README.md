@@ -11,6 +11,13 @@
 
 ### 3AM Game - Fall 2021 PROG 101 Midterm Assignment
 ```markdown 
+Game Objective: You need to buy something from the gas station at 3 o’clock in the morning. 
+                However, your late night gas station run gets turned on its head 
+                when the gas station won’t let you leave.
+                
+This is a choice-based adventure game where the player can interact with 
+and play mini games with the non-player characters.
+
 - https://github.com/CiarennHollis/CiarennHollis.github.io/blob/c72fe39954c599b798a54330c23d82c88c99f246/3AMgame.cs
 
 ```
