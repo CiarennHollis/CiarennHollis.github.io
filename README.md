@@ -1,14 +1,20 @@
-## Welcome to Ciarenn Hollis's Code Portfolio
+# Welcome to Ciarenn Hollis's Code Portfolio
 
-You can use the [editor on GitHub](https://github.com/CiarennHollis/CiarennHollis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About
+- Student at Columbia College Chicago (grad year: 2025)
+- Major: Game Design
+- Minor: Game Art
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+## Work
+
+### 3AM Game - Fall 2021 PROG 101 Midterm Assignment
+```markdown 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
