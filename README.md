@@ -21,7 +21,16 @@ and play mini games with the non-player characters.
 - https://github.com/CiarennHollis/CiarennHollis.github.io/blob/c72fe39954c599b798a54330c23d82c88c99f246/3AMgame.cs
 
 ```
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### Recursive Pot Creation
+```markdown 
+Description: This program "draws" a Dogon pot (prints lines describing the pot)
+                
+
+- https://github.com/CiarennHollis/CiarennHollis.github.io/blob/2291ebfb3d4bb9814d66821220b999614049d20f/RecursivePotCreation.cs
+
+```
 
 
 Syntax highlighted code block
