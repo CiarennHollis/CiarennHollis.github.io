@@ -100,7 +100,7 @@ namespace Adopt_a_Robot
 
         public string PlayerGreeting()
         {
-            return $"Glad to meet you {this.Name}. You are a robot!";
+            return $"Glad to meet you {this.Name}. You are adoptong a robot!";
 
 
         }
