@@ -40,6 +40,14 @@ Description: This program simulates ordering baked goods from a bakery.
 
 ```
 
+### Refactored: Adopt-a-Robot Application
+```markdown 
+Description: Reorgnized the original code of this application into separate classes
+                
+- https://github.com/CiarennHollis/CiarennHollis.github.io/blob/4eb225bfbc240b081dd46075d14c29bf86f03671/RefactoringForAdoptARobotApp.cs
+
+```
+
 
 Syntax highlighted code block
 
