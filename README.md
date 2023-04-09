@@ -22,6 +22,18 @@ the depths?_
 
 ##
 
+### Resurrecting Peace 
+#### Dungeon World Campaign
+_Will resurrecting the late wizard, Arnold the Duck, bring an end to the vampire's tyranny? 
+Or will it only bring more chaos to the land of Edrala? Play to find out!_
+- Spring 2023 INMD 240 TTRPG Project
+- Software: Adobe Photoshop, Adobe Illustrator
+                          
+
+- [Resurrecting Peace Project Link](https://ciarenn-hollis.itch.io/resurrecting-peace-dungeon-world-adventure)
+
+##
+
 ### Chateau Battle
 #### Deathmatch Quake Map 
 _Fight your friends in this Midieval Chateau!_
@@ -32,7 +44,6 @@ _Fight your friends in this Midieval Chateau!_
 - [Chateau Battle Repo Link](https://github.com/CiarennHollis/ChateauBattle)
 
 
-##
 
 
 ## Programming
