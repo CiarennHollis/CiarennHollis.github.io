@@ -27,14 +27,5 @@ UML diagrams for this project:
 ## 
 
 
-### Elevator Application
-```markdown 
-Description: This program simulates riding an elevator. This is based off a demo for PROG 101's week 10 class session.
- 
- ```
-- https://github.com/CiarennHollis/CiarennHollis.github.io/blob/7da6cc811761535773e4893af92640f523bb3b6e/EleveatorApplication.cs
-
-
-## 
 
 
