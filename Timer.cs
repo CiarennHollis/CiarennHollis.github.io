@@ -1,4 +1,4 @@
-public enum TimerState { Started, Running, Ended}
+    public enum TimerState { Started, Running, Ended}
     public class Timer 
     {
         // P R O P E R T I E S
