@@ -1,3 +1,7 @@
+// Date: Spring 2023
+// Origin: Originally made for Emoji Joy game project
+
+// Instantiate to use
     public enum TimerState { Started, Running, Ended}
     public class Timer 
     {
@@ -49,4 +53,4 @@
         }
     }
 
-// Instantiate to use
+
